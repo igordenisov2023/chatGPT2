@@ -981,66 +981,6 @@ ym:pv:artificial	ym:pv:browser	ym:pv:clientID	ym:pv:date	ym:pv:dateTime	ym:pv:de
 0	chromemobile	1683297732227539104	2023-05-05	2023-05-05 17:42:14	2	0		[]	yandex					ad	0	zte	android_pie90	android		Abakan	1095	Russia	225	https://zeonpbx.ru/call-center
 0	chromemobile	1683297732227539104	2023-05-05	2023-05-05 17:42:17	2	0		[]	yandex					ad	0	zte	android_pie90	android		Abakan	1095	Russia	225	https://zeonpbx.ru/call-center
 1	chromemobile	1683472343422866343	2023-05-07	2023-05-07 18:12:38	2	0		[]	yandex					ad	0	lenovo	android_oreo81	android		Bryansk	191	Russia	225	https://zeonpbx.ru/call-center
-0	chromemobile	1683469567204465396	2023-05-07	2023-05-07 17:26:08	2	0		[]	yandex					ad	0	realme	android_12	android			0	Russia	225	https://zeonpbx.ru/call-center
-0	miui	1683467803390805210	2023-05-07	2023-05-07 16:56:41	2	0		[]	yandex					ad	0	xiaomi	android_10	android			0	Russia	225	https://zeonpbx.ru/call-center
-0	chromemobile	1681314158897198940	2023-05-07	2023-05-07 18:55:30	2	0		[]	yandex					ad	0	huawei	android_11	android		Mozyr	21274	Belarus	149	https://zeonpbx.ru/call-center
-1	chromemobile	1681314158897198940	2023-05-07	2023-05-07 18:55:50	2	0		[]	yandex					ad	0	huawei	android_11	android		Mozyr	21274	Belarus	149	https://zeonpbx.ru/call-center
-0	yandex_browser	1683478952679495463	2023-05-07	2023-05-07 20:02:34	1	0		[]	yandex	yandex_search	yandex			ad	0		windows10	windows	https://yandex.ru/search/?text=jhufybpjdfnm Телефон VoIP&lr=105434&clid=2372574&win=466	Udachny	24321	Russia	225	https://zeonpbx.ru/?etext=2202.iHFgK_oteBxKF2IG8ckQ9sVAjOSqsDrFSCrOJ-5ZxHFcJDRW_hwOW4ua0qNF_eg0aGlqYWhsd2djZGZqZHFjcg.42dc42eeceae2491ddf86a1fb3af8b60b54c250d
-1	yandex_browser	1683478952679495463	2023-05-07	2023-05-07 20:02:49	1	0		[]	yandex					ad	0		windows10	windows		Udachny	24321	Russia	225	https://zeonpbx.ru/?etext=2202.iHFgK_oteBxKF2IG8ckQ9sVAjOSqsDrFSCrOJ-5ZxHFcJDRW_hwOW4ua0qNF_eg0aGlqYWhsd2djZGZqZHFjcg.42dc42eeceae2491ddf86a1fb3af8b60b54c250d
-0	chromemobile	1683484153137019649	2023-05-07	2023-05-07 21:29:14	2	0		[]	yandex					ad	0	huawei	android_marshmallow	android	https://androidlomka.com/214-roblox.html	Evpatoria	11463	Russia	225	https://zeonpbx.ru/call-center
-0	chromemobile	1683173490701775959	2023-05-07	2023-05-07 17:35:36	2	0		[]	yandex					ad	0	honor	android_12	android	https://overclockers.ru/		0	Russia	225	https://zeonpbx.ru/medcentre
-0	yandex_browser	1687803075703590623	2023-06-26	2023-06-26 21:10:49	1	0		[]	yandex	yandex_search	yandex			ad	0		windows10	windows	https://yandex.ru/	Moscow	213	Russia	225	https://zeonpbx.ru/?etext=2202.3du9evTh8xYC3QS7AqTGUydDHCGxU1rKZgsKoBywCSkszKePd3y-mT_xgGTlJQcq3ddt1uF_yy35CX-amJOFZm5qY2ZheWNueGppdWd4bXc.6fde8e75f9542293031cef1bd01d1b5000f32053
-0	yandex_browser	168714357052043243	2023-06-26	2023-06-26 05:26:39	1	0		[]	yandex	yandex_search	yandex			ad	0		windows10	windows	https://yandex.ru/	Bratsk	976	Russia	225	https://zeonpbx.ru/
-1	yandex_browser	168714357052043243	2023-06-26	2023-06-26 05:27:04	1	0		[]	yandex					ad	0		windows10	windows		Bratsk	976	Russia	225	https://zeonpbx.ru/
-0	chrome	1687766928333162078	2023-06-26	2023-06-26 11:08:48	1	0		[]						direct	0		windows10	windows			0	Russia	225	https://zeonpbx.ru/
-0	chrome	1687797625983207803	2023-06-26	2023-06-26 19:40:26	1	0		[]						referral	0		windows10	windows	https://github.com/egorsmkv/diagrams-telephony	Saint Petersburg	2	Russia	225	https://zeonpbx.ru/
-1	chrome	1687797625983207803	2023-06-26	2023-06-26 19:40:42	1	0		[]						direct	0		windows10	windows		Saint Petersburg	2	Russia	225	https://zeonpbx.ru/
-0	chromemobile	1687738335382795200	2023-06-26	2023-06-26 03:12:15	2	0		[]	yandex	yandex_search	yandex			ad	0	apple	ios16	ios_double	https://yandex.ru/	Moscow	213	Russia	225	https://zeonpbx.ru/medcentre
-1	chromemobile	1687738335382795200	2023-06-26	2023-06-26 03:12:29	2	0		[]	yandex					ad	0	apple	ios16	ios_double		Moscow	213	Russia	225	https://zeonpbx.ru/medcentre
-0	yandexsearch	1687756895772350456	2023-06-26	2023-06-26 08:21:34	2	0		[]		yandex_search	yandex			organic	0	apple	ios16	ios_double	https://yandex.ru/	Surgut	973	Russia	225	https://zeonpbx.ru/
-0	chrome	16455327551065685094	2023-06-26	2023-06-26 09:23:55	1	0		[]						internal	0		windows10	windows	https://zeonpbx.ru/	Moscow	213	Russia	225	https://zeonpbx.ru/call-center
-0	chrome	16455327551065685094	2023-06-26	2023-06-26 09:23:59	1	0		[]						direct	0		windows10	windows		Moscow	213	Russia	225	https://zeonpbx.ru/call-center
-1	chrome	16455327551065685094	2023-06-26	2023-06-26 09:24:14	1	0		[]						direct	0		windows10	windows		Moscow	213	Russia	225	https://zeonpbx.ru/call-center
-0	chrome	16455327551065685094	2023-06-26	2023-06-26 09:24:23	1	0		[]						internal	0		windows10	windows	https://zeonpbx.ru/call-center	Moscow	213	Russia	225	https://zeonpbx.ru/unnoyemenu
-0	chrome	16455327551065685094	2023-06-26	2023-06-26 13:42:54	1	0		[]						direct	0		windows10	windows		Moscow	213	Russia	225	https://zeonpbx.ru/call-center
-1	chrome	16455327551065685094	2023-06-26	2023-06-26 13:43:10	1	0		[]						direct	0		windows10	windows		Moscow	213	Russia	225	https://zeonpbx.ru/call-center
-0	chrome	1687800525918382565	2023-06-26	2023-06-26 20:28:42	1	0		[]						direct	0		windows8_1	windows		Nizhny Novgorod	47	Russia	225	https://zeonpbx.ru/
-1	chrome	1687800525918382565	2023-06-26	2023-06-26 20:28:57	1	0		[]						direct	0		windows8_1	windows		Nizhny Novgorod	47	Russia	225	https://zeonpbx.ru/
-0	chrome	1687800525918382565	2023-06-26	2023-06-26 20:29:18	1	0		[]						direct	0		windows8_1	windows		Nizhny Novgorod	47	Russia	225	https://zeonpbx.ru/
-0	chrome	1687800525918382565	2023-06-26	2023-06-26 20:33:09	1	0		[]						internal	0		windows8_1	windows	https://zeonpbx.ru/	Nizhny Novgorod	47	Russia	225	https://zeonpbx.ru/sales-department
-1	chrome	1687800525918382565	2023-06-26	2023-06-26 20:33:29	1	0		[]						internal	0		windows8_1	windows	https://zeonpbx.ru/	Nizhny Novgorod	47	Russia	225	https://zeonpbx.ru/tilda/form575858940/submitted/
-0	chrome	1687800525918382565	2023-06-26	2023-06-26 20:33:31	1	0		[290872102]						internal	0		windows8_1	windows	https://zeonpbx.ru/	Nizhny Novgorod	47	Russia	225	https://zeonpbx.ru/thanks
-0	chrome	1687800525918382565	2023-06-26	2023-06-26 20:33:40	1	0		[]						internal	0		windows8_1	windows	https://zeonpbx.ru/thanks	Nizhny Novgorod	47	Russia	225	https://zeonpbx.ru/
-0	chrome	1687800525918382565	2023-06-26	2023-06-26 20:34:09	1	0		[]						internal	0		windows8_1	windows	https://zeonpbx.ru/sales-department	Nizhny Novgorod	47	Russia	225	https://zeonpbx.ru/
-0	chrome	1687800525918382565	2023-06-26	2023-06-26 20:35:24	1	0		[]						internal	0		windows8_1	windows	https://zeonpbx.ru/	Nizhny Novgorod	47	Russia	225	https://zeonpbx.ru/company
-0	chrome	1687800525918382565	2023-06-26	2023-06-26 20:35:52	1	0		[]						internal	0		windows8_1	windows	https://zeonpbx.ru/company	Nizhny Novgorod	47	Russia	225	https://zeonpbx.ru/
-1	chrome	1687800525918382565	2023-06-26	2023-06-26 20:45:10	1	0		[]						direct	0		windows8_1	windows		Nizhny Novgorod	47	Russia	225	https://zeonpbx.ru/
-1	chrome	1687800525918382565	2023-06-26	2023-06-26 20:45:17	1	0		[]						internal	0		windows8_1	windows	https://zeonpbx.ru/thanks	Nizhny Novgorod	47	Russia	225	https://zeonpbx.ru/tilda/form575859271/submitted/
-0	chrome	1687800525918382565	2023-06-26	2023-06-26 20:45:20	1	0		[290871915]						internal	0		windows8_1	windows	https://zeonpbx.ru/	Nizhny Novgorod	47	Russia	225	https://zeonpbx.ru/thankspresent
-0	chrome	1687800525918382565	2023-06-26	2023-06-26 20:45:23	1	0		[]						external	1		windows8_1	windows	https://zeonpbx.ru/thankspresent	Nizhny Novgorod	47	Russia	225	https://drive.google.com/file/d/1Eq_TFtEVINVVvzjwTSwHPoGQz6RoU9wW/view?usp=sharing
-1	chrome	1687800525918382565	2023-06-26	2023-06-26 20:45:38	1	0		[]						direct	0		windows8_1	windows		Nizhny Novgorod	47	Russia	225	https://zeonpbx.ru/thankspresent
-0	chrome	1687800525918382565	2023-06-26	2023-06-26 20:48:22	1	0		[]						internal	0		windows8_1	windows	https://zeonpbx.ru/thankspresent	Nizhny Novgorod	47	Russia	225	https://zeonpbx.ru/
-0	chrome	1687800525918382565	2023-06-26	2023-06-26 20:48:27	1	0		[292370736]						external	1		windows8_1	windows	https://zeonpbx.ru/	Nizhny Novgorod	47	Russia	225	tel:84951355555
-0	chrome	1687800525918382565	2023-06-26	2023-06-26 20:48:31	1	0		[]						external	1		windows8_1	windows	https://zeonpbx.ru/	Nizhny Novgorod	47	Russia	225	tel:74951355555
-0	chrome	1687800525918382565	2023-06-26	2023-06-26 20:57:00	1	0		[]						internal	0		windows8_1	windows	https://zeonpbx.ru/thanks	Nizhny Novgorod	47	Russia	225	https://zeonpbx.ru/
-0	edge	1687786959604486934	2023-06-26	2023-06-26 16:42:38	1	0		[]	yandex	yandex_search	yandex			ad	0		windows10	windows	https://yandex.ru/	Moscow	213	Russia	225	https://zeonpbx.ru/call-center
-1	edge	1687786959604486934	2023-06-26	2023-06-26 16:42:53	1	0		[]	yandex					ad	0		windows10	windows		Moscow	213	Russia	225	https://zeonpbx.ru/call-center
-0	yandex_browser	1687766895661517533	2023-06-26	2023-06-26 11:08:14	1	0		[]	yandex	yandex_search	yandex			ad	0		windows10	windows	https://yandex.ru/	Saint Petersburg	2	Russia	225	https://zeonpbx.ru/call-center
-0	yandex_browser	1687774795735297630	2023-06-26	2023-06-26 13:19:54	1	0		[]	yandex	yandex_search	yandex			ad	0		windows10	windows	https://yandex.ru/	Saint Petersburg	2	Russia	225	https://zeonpbx.ru/
-1	yandex_browser	1687774795735297630	2023-06-26	2023-06-26 13:20:09	1	0		[]	yandex					ad	0		windows10	windows		Saint Petersburg	2	Russia	225	https://zeonpbx.ru/
-0	yandex_browser	1687774795735297630	2023-06-26	2023-06-26 13:20:30	1	0		[]						external	1		windows10	windows	https://zeonpbx.ru/	Saint Petersburg	2	Russia	225	tel:74951355555
-0	yandexsearch	1687779324823218436	2023-06-26	2023-06-26 14:35:24	2	0		[]	yandex	yandex_search	yandex			ad	0	huawei	android_10	android	https://yandex.ru/		0	Russia	225	https://zeonpbx.ru/
-1	yandexsearch	1687779324823218436	2023-06-26	2023-06-26 14:35:39	2	0		[]	yandex					ad	0	huawei	android_10	android			0	Russia	225	https://zeonpbx.ru/
-0	yandex_browser	1681746026553335038	2023-06-26	2023-06-26 19:15:55	1	0		[]						direct	0		windows10	windows		Moscow	213	Russia	225	https://zeonpbx.ru/
-0	yandex_browser	1681746026553335038	2023-06-26	2023-06-26 19:16:11	1	0		[]						internal	0		windows10	windows	https://zeonpbx.ru/	Moscow	213	Russia	225	https://zeonpbx.ru/otrasresheniya
-1	yandex_browser	1681746026553335038	2023-06-26	2023-06-26 19:16:30	1	0		[]						direct	0		windows10	windows		Moscow	213	Russia	225	https://zeonpbx.ru/otrasresheniya
-1	yandex_browser	1681746026553335038	2023-06-26	2023-06-26 19:16:30	1	0		[]						direct	0		windows10	windows		Moscow	213	Russia	225	https://zeonpbx.ru/
-0	yandex_browser	1681746026553335038	2023-06-26	2023-06-26 19:16:48	1	0		[]						internal	0		windows10	windows	https://zeonpbx.ru/otrasresheniya	Moscow	213	Russia	225	https://zeonpbx.ru/
-0	chromemobile	1685688704442989687	2023-06-26	2023-06-26 12:11:40	2	0		[]	yandex					ad	0	xiaomi	android_pie90	android		Lysva	20244	Russia	225	https://zeonpbx.ru/call-center
-1	chromemobile	1685688704442989687	2023-06-26	2023-06-26 12:11:55	2	0		[]	yandex					ad	0	xiaomi	android_pie90	android		Lysva	20244	Russia	225	https://zeonpbx.ru/call-center
-0	chrome	1686733880428781502	2023-06-26	2023-06-26 18:07:09	1	0		[]						direct	0		windows10	windows		Grodno	10274	Belarus	149	https://zeonpbx.ru/
-1	chrome	1686733880428781502	2023-06-26	2023-06-26 18:07:24	1	0		[]						direct	0		windows10	windows		Grodno	10274	Belarus	149	https://zeonpbx.ru/
-0	chrome	1686733880428781502	2023-06-26	2023-06-26 19:16:15	1	0		[]						internal	0		windows10	windows	https://zeonpbx.ru/	Grodno	10274	Belarus	149	https://zeonpbx.ru/otrasresheniya
 0	chrome	1686733880428781502	2023-06-26	2023-06-26 19:16:19	1	0		[]						internal	0		windows10	windows	https://zeonpbx.ru/otrasresheniya	Grodno	10274	Belarus	149	https://zeonpbx.ru/auto
 1	chrome	1686733880428781502	2023-06-26	2023-06-26 19:16:35	1	0		[]						direct	0		windows10	windows		Grodno	10274	Belarus	149	https://zeonpbx.ru/otrasresheniya
 0	firefox	1687761289292571411	2023-06-26	2023-06-26 09:35:00	1	0		[]	yandex	yandex_search	yandex			ad	0		windows_xp	windows	https://yandex.ru/yandsearch?clid=2186620&text=корпоративная сип телефония лицензия&lr=51&p=1	Samara	51	Russia	225	https://zeonpbx.ru/call-center?etext=2202.STUJ276wc0vj1QsHJ__0MV5NtPngbnrNBVnH-uor0DOgvdLXGLffu5Iop4O6eI-vCgVmGUbV_Ipo-lOUalmHV-0NK0X6vE86kmJGZvgFJnxuenVsdndkbXJ0dXF0aHdr.9b1eb9e59e05c9cd58132f6800bf8d83b3777bf8
