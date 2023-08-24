@@ -978,5 +978,4 @@ ym:pv:artificial	ym:pv:browser	ym:pv:clientID	ym:pv:date	ym:pv:dateTime	ym:pv:de
 0	chrome	1689528477948146831	2023-07-16	2023-07-16 20:27:57	1	0		[]	yandex	yandex_search	yandex			ad	0		windows10	windows	https://yandex.ru/		0	Russia	225	https://zeonpbx.ru/robotmasha
 1	chrome	1689528477948146831	2023-07-16	2023-07-16 20:28:13	1	0		[]	yandex					ad	0		windows10	windows			0	Russia	225	https://zeonpbx.ru/robotmasha
 0	android_browser	1689509646703635772	2023-07-16	2023-07-16 15:14:07	2	0		[]	yandex	yandex_search	yandex			ad	0	realme	android_11	android	https://yandex.ru/	Ufa	172	Russia	225	https://zeonpbx.ru/robotmasha
-1	android_browser	1689509646703635772	2023-07-16	2023-07-16 15:14:22	2	0		[]	yandex					ad	0	realme	android_11	android		Ufa	172	Russia	225	https://zeonpbx.ru/robotmasha
-0	yandexsearch	1689528853384855526	2023-07-16	2023-07-16 20:34:13	2	0		[]	yandex			mail		ad	0	xiaomi	android_11	android	https://my.mail.ru/	Melitopol	10367		0	https://zeonpbx.ru/medcentre
+1	android_browser	1689509646703635772	2023-07-16	2023-07-16 15:14:22	2	0		[]	yandex					ad	0	realme	android_11	android		Ufa	172	Russia	225	https://zeonpbx.ru/robotmash
