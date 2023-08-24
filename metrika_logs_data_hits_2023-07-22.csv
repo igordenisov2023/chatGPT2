@@ -1935,10 +1935,6 @@ ym:pv:artificial	ym:pv:browser	ym:pv:clientID	ym:pv:date	ym:pv:dateTime	ym:pv:de
 0	chromemobile	1680611883693985487	2023-04-04	2023-04-04 15:38:08	2	0		[]						direct	0	samsung	android_12	android			0	Russia	225	https://zeonpbx.ru/
 0	chromemobile	1680611158243850608	2023-04-04	2023-04-04 15:25:31	2	0		[]						direct	0		android_11	android			0	Czech Republic	125	https://zeonpbx.ru/
 1	chromemobile	1680611158243850608	2023-04-04	2023-04-04 15:25:46	2	0		[]						direct	0		android_11	android			0	Czech Republic	125	https://zeonpbx.ru/
-1	chrome	1680582963701652937	2023-04-04	2023-04-04 07:36:17	1	0		[]						direct	0		windows10	windows		Jakarta	10574	Indonesia	10095	https://zeonpbx.ru/
-0	chrome	1680582963701652937	2023-04-04	2023-04-04 07:51:42	1	0		[]						internal	0		windows10	windows	https://zeonpbx.ru/	Jakarta	10574	Indonesia	10095	https://zeonpbx.ru/blog
-0	chrome	1680670233780422059	2023-04-05	2023-04-05 07:50:38	1	0		[]						direct	0		windows10	windows		Vologda	21	Russia	225	https://zeonpbx.ru/
-0	yandex_browser	1680540550649402936	2023-04-05	2023-04-05 09:58:39	1	0		[]						direct	0		windows10	windows		Tyumen	55	Russia	225	https://zeonpbx.ru/corporatesomcard
 1	yandex_browser	1680540550649402936	2023-04-05	2023-04-05 09:58:54	1	0		[]						direct	0		windows10	windows		Tyumen	55	Russia	225	https://zeonpbx.ru/corporatesomcard
 0	chrome	1680706565965603046	2023-04-05	2023-04-05 17:56:05	1	0		[]		yandex_search	yandex			organic	0		windows10	windows	https://yandex.ru/	Yerevan	10262	Armenia	168	https://zeonpbx.ru/robotmasha
 0	chromemobile	1680718831702047526	2023-04-05	2023-04-05 21:20:01	2	0		[]						direct	0	xiaomi	android_11	android			0	Russia	225	https://zeonpbx.ru/
