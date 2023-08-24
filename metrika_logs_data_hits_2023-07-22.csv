@@ -981,26 +981,6 @@ ym:pv:artificial	ym:pv:browser	ym:pv:clientID	ym:pv:date	ym:pv:dateTime	ym:pv:de
 0	chromemobile	1683297732227539104	2023-05-05	2023-05-05 17:42:14	2	0		[]	yandex					ad	0	zte	android_pie90	android		Abakan	1095	Russia	225	https://zeonpbx.ru/call-center
 0	chromemobile	1683297732227539104	2023-05-05	2023-05-05 17:42:17	2	0		[]	yandex					ad	0	zte	android_pie90	android		Abakan	1095	Russia	225	https://zeonpbx.ru/call-center
 1	chromemobile	1683472343422866343	2023-05-07	2023-05-07 18:12:38	2	0		[]	yandex					ad	0	lenovo	android_oreo81	android		Bryansk	191	Russia	225	https://zeonpbx.ru/call-center
-0	yandexsearch	1683485650879095050	2023-05-07	2023-05-07 21:54:11	2	0		[]	yandex					ad	0	samsung	android_pie90	android		Moscow	213	Russia	225	https://zeonpbx.ru/call-center
-1	yandexsearch	1683485650879095050	2023-05-07	2023-05-07 21:57:55	2	0		[]	yandex					ad	0	samsung	android_pie90	android		Moscow	213	Russia	225	https://zeonpbx.ru/call-center
-1	yandexsearch	1683485650879095050	2023-05-07	2023-05-07 21:57:55	2	0		[]	yandex					ad	0	samsung	android_pie90	android		Moscow	213	Russia	225	https://zeonpbx.ru/call-center
-0	yandexsearch	1683485650879095050	2023-05-07	2023-05-07 21:57:57	2	0		[]	yandex					ad	0	samsung	android_pie90	android		Moscow	213	Russia	225	https://zeonpbx.ru/call-center
-0	yandexsearch	1683485650879095050	2023-05-07	2023-05-07 21:57:57	2	0		[]	yandex					ad	0	samsung	android_pie90	android		Moscow	213	Russia	225	https://zeonpbx.ru/call-center
-1	yandexsearch	1683485650879095050	2023-05-07	2023-05-07 21:58:12	2	0		[]	yandex					ad	0	samsung	android_pie90	android		Moscow	213	Russia	225	https://zeonpbx.ru/call-center
-1	yandexsearch	1683485650879095050	2023-05-07	2023-05-07 21:58:13	2	0		[]	yandex					ad	0	samsung	android_pie90	android		Moscow	213	Russia	225	https://zeonpbx.ru/call-center
-0	yandexsearch	1683485650879095050	2023-05-07	2023-05-07 22:01:58	2	0		[]	yandex					ad	0	samsung	android_pie90	android		Moscow	213	Russia	225	https://zeonpbx.ru/call-center
-1	yandexsearch	1683485650879095050	2023-05-07	2023-05-07 22:02:13	2	0		[]	yandex					ad	0	samsung	android_pie90	android		Moscow	213	Russia	225	https://zeonpbx.ru/call-center
-0	samsung_internet	168347758658222539	2023-05-07	2023-05-07 19:39:45	2	0		[]	yandex					ad	0	samsung	android_10	android	http://centricsoftware.com/	Moscow	213	Russia	225	https://zeonpbx.ru/robotmasha
-0	safari_mobile	1683468609261850540	2023-05-07	2023-05-07 17:10:09	2	0		[]	yandex					ad	0	apple	ios15	ios_double		Moscow	213	Russia	225	https://zeonpbx.ru/
-1	safari_mobile	1683468609261850540	2023-05-07	2023-05-07 17:10:24	2	0		[]	yandex					ad	0	apple	ios15	ios_double		Moscow	213	Russia	225	https://zeonpbx.ru/
-0	chromemobile	1683475360783180521	2023-05-07	2023-05-07 19:02:40	2	0		[]	yandex					ad	0	huawei	android_nougat	android			0	Russia	225	https://zeonpbx.ru/call-center
-0	chromemobile	1683483301824228142	2023-05-07	2023-05-07 21:15:01	2	0		[]	yandex	yandex_search	yandex			ad	0	google	android_12	android	https://yandex.ru/		0	Russia	225	https://zeonpbx.ru/call-center
-1	chromemobile	1683483301824228142	2023-05-07	2023-05-07 21:15:31	2	0		[]	yandex					ad	0	google	android_12	android			0	Russia	225	https://zeonpbx.ru/call-center
-0	chromemobile	1683483301824228142	2023-05-07	2023-05-07 21:16:05	2	0		[]						external	1	google	android_12	android	https://zeonpbx.ru/call-center		0	Russia	225	tel:74951355555
-0	chromemobile	1683467800660923787	2023-05-07	2023-05-07 16:56:40	2	0		[]	yandex					ad	0	huawei	android_11	android			0	Russia	225	https://zeonpbx.ru/call-center
-1	chromemobile	1683467800660923787	2023-05-07	2023-05-07 16:56:55	2	0		[]	yandex					ad	0	huawei	android_11	android			0	Russia	225	https://zeonpbx.ru/call-center
-0	chromemobile	1683467800660923787	2023-05-07	2023-05-07 20:08:26	2	0		[]	yandex					ad	0	huawei	android_11	android			0	Russia	225	https://zeonpbx.ru/call-center
-1	chromemobile	1683467800660923787	2023-05-07	2023-05-07 20:08:41	2	0		[]	yandex					ad	0	huawei	android_11	android			0	Russia	225	https://zeonpbx.ru/call-center
 0	chromemobile	1683469567204465396	2023-05-07	2023-05-07 17:26:08	2	0		[]	yandex					ad	0	realme	android_12	android			0	Russia	225	https://zeonpbx.ru/call-center
 0	miui	1683467803390805210	2023-05-07	2023-05-07 16:56:41	2	0		[]	yandex					ad	0	xiaomi	android_10	android			0	Russia	225	https://zeonpbx.ru/call-center
 0	chromemobile	1681314158897198940	2023-05-07	2023-05-07 18:55:30	2	0		[]	yandex					ad	0	huawei	android_11	android		Mozyr	21274	Belarus	149	https://zeonpbx.ru/call-center
