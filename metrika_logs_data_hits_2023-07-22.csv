@@ -852,7 +852,6 @@ ym:pv:artificial	ym:pv:browser	ym:pv:clientID	ym:pv:date	ym:pv:dateTime	ym:pv:de
 1	chromemobile	1682438312843585022	2023-05-03	2023-05-03 12:49:27	2	0		[]	yandex					ad	0	huawei	android_11	android		Budennovsk	11055	Russia	225	https://zeonpbx.ru/call-center
 0	yandex_browser	1683132012931873893	2023-05-03	2023-05-03 19:40:12	2	0		[]	yandex	yandex_search	yandex			ad	0	huawei	android_10	android	https://yandex.ru/	Saratov	194	Russia	225	https://zeonpbx.ru/
 1	yandex_browser	1683132012931873893	2023-05-03	2023-05-03 19:40:36	2	0		[]	yandex					ad	0	huawei	android_10	android		Saratov	194	Russia	225	https://zeonpbx.ru/
-0	yandex_browser	1683132012931873893	2023-05-03	2023-05-03 19:41:13	2	0		[290871913,290872102]						internal	0	huawei	android_10	android	https://zeonpbx.ru/	Saratov	194	Russia	225	https://zeonpbx.ru/thanksyou
 0	yandex_browser	1683132012931873893	2023-05-03	2023-05-03 19:41:17	2	0		[]						internal	0	huawei	android_10	android	https://zeonpbx.ru/thanksyou	Saratov	194	Russia	225	https://zeonpbx.ru/
 0	chrome	1683068975951442057	2023-05-03	2023-05-03 02:09:35	1	0		[]						direct	0		mac_os_catalina	macos		Columbus	20815	United States	84	https://zeonpbx.ru/company
 0	sputnik	1683086318859716452	2023-05-03	2023-05-03 06:58:40	1	0		[]						internal	0		windows10	windows	https://zeonpbx.ru/	Samara	51	Russia	225	https://zeonpbx.ru/call-center
