@@ -2956,7 +2956,6 @@ ym:pv:artificial	ym:pv:browser	ym:pv:clientID	ym:pv:date	ym:pv:dateTime	ym:pv:de
 1	safari_mobile	1682361802536610748	2023-04-24	2023-04-24 21:43:37	2	0		[]	yandex					ad	0	apple	ios15	ios_double			0	Germany	96	https://zeonpbx.ru/call-center
 0	yandex_browser	1682365728217614788	2023-04-24	2023-04-24 22:48:48	1	0		[]						direct	0		windows10	windows		Moscow	213	Russia	225	https://zeonpbx.ru/
 1	yandex_browser	1682365728217614788	2023-04-24	2023-04-24 22:49:02	1	0		[]						direct	0		windows10	windows		Moscow	213	Russia	225	https://zeonpbx.ru/
-0	yandex_browser	1682365728217614788	2023-04-24	2023-04-24 22:50:57	1	0		[]						external	1		windows10	windows	https://zeonpbx.ru/	Moscow	213	Russia	225	https://yandex.ru/maps/213/moscow/house/prospekt_mira_106/Z04YcARmQUcEQFtvfXRxc3tqZQ==/?ll=37.636823,55.802791&z=16
 0	miui	1682369213931317279	2023-04-24	2023-04-24 23:46:53	2	0		[]	yandex					ad	0	xiaomi	android_12	android		Moscow	213	Russia	225	https://zeonpbx.ru/call-center
 1	miui	1682369213931317279	2023-04-24	2023-04-24 23:47:08	2	0		[]	yandex					ad	0	xiaomi	android_12	android		Moscow	213	Russia	225	https://zeonpbx.ru/call-center
 0	miui	1682369213931317279	2023-04-24	2023-04-24 23:49:43	2	0		[]	yandex					ad	0	xiaomi	android_12	android		Moscow	213	Russia	225	https://zeonpbx.ru/call-center
